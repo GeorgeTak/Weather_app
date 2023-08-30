@@ -34,7 +34,7 @@ def display_weather(weather_data):
 
 
 
-api_key = "d0c552950b7357eaf74cbbf36000517f"
+api_key = "enter your api key here"
 
 list=[]
 
